@@ -1,2 +1,2 @@
 # INM701
-Predict UK property price change for each region
+Predict US King County Property Price
